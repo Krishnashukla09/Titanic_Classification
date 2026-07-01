@@ -16,4 +16,3 @@ This project predicts survival of passengers on the Titanic using machine learni
 - `Titanic_Prediction.ipynb` – Code Notebook
 - `submission.csv` – Output File
 
-## 📌 Hosted on Kaggle & GitHub
